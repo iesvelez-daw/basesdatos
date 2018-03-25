@@ -18,17 +18,17 @@ Previamente es necesario añadir el driver MySQL a las bibliotecas del proyecto.
 
 1. Pulsar botón secundario del ratón sobre `Bibliotecas`. 
 
- ![Añadir MySQL driver 1](img/netbeans-mysql-driver-1.png)
+ ![Añadir MySQL driver 1](img/netbeans-mysql-driver-001.png)
 
 2. Seleccionar `Añadir biblioteca...`.
 
- ![Añadir MySQL driver 2](img/netbeans-mysql-driver-2.png)
+ ![Añadir MySQL driver 2](img/netbeans-mysql-driver-002.png)
 
 3. En el diálogo que aparece, seleccionar `Driver MySQL JDBC`.
  
- ![Añadir MySQL driver 3](img/netbeans-mysql-driver-3.png)
+ ![Añadir MySQL driver 3](img/netbeans-mysql-driver-003.png)
 
 4. Comprobar que aparece añadido a las `Bibliotecas`.  
- ![Añadir MySQL driver 4](img/netbeans-mysql-driver-4.png)
+ ![Añadir MySQL driver 4](img/netbeans-mysql-driver-004.png)
 
 
